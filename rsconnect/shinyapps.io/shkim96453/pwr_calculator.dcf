@@ -1,0 +1,12 @@
+name: pwr_calculator
+title: pwr_calculator
+username: shkim96453
+account: shkim96453
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13574087
+bundleId: 9500297
+url: https://shkim96453.shinyapps.io/pwr_calculator/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
